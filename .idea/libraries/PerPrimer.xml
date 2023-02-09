@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PerPrimer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/PerPrimer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

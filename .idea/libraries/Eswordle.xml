@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Eswordle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Eswordle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
